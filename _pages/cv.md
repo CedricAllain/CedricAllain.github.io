@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics and Mathematics, Toulouse School of Economics, Toulouse, France, 2013
+* M.S. in Data Science, Université Paris-Saclay, Orsay, France, 2020
+* Engineering degree in Economics, Statistics and Machine Learning, Écone nationale de la statistique et de l'admisitration économique (ENSAE Paris), Saclay, France, 2020
+* Ph.D in Mathematics and Computer Science, Université Paris-Saclay, Orsay, 2023 (expected)
 
 Work experience
 ======
