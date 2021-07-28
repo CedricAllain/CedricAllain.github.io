@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cédric Allain"
   avatar           : "profile_callain.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at Inria Saclay"
   location         : "Paris / Saclay"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : https://github.com/CedricAllain/CedricAllain.github.io/edit/master/_config.yml  # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
